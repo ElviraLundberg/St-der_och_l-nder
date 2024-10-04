@@ -101,7 +101,7 @@ function printLand() {
         });
 }
 
-// Funktionen för min showCities-vy
+// Funktionen för min showCities-vy.
 //Hämtar data från stad.json genom fetch.
 function showCities(landId, countryname) {
     fetch("stad.json")
